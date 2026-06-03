@@ -40,11 +40,11 @@ A Flutter application that allows users to search Quran surahs and play Quran re
 
 ### Home Screen
 
-![Home Screen](assets/home.jpeg)
+![Home Screen](lib/assets/home.jpeg)
 
 ### Player Screen
 
-![Player Screen](assets/player.jpeg)
+![Player Screen](lib/assets/player.jpeg)
 
 ---
 
